@@ -1,6 +1,6 @@
 # 🧾 Informe de Calidad y Refactorización de Código - `UserManager.java`
 
-## 🧠 Autor: Desarrollador Senior / Arquitecto de Software / QA Expert  
+## 🧠 Autor: Julián Mateo Castellanos Cuervo 
 **Fecha:** 2025-05-02  
 **Versión original del código:** Código inicial con estructura estática y mínima validación.  
 **Objetivo:** Evaluar, documentar y mejorar la calidad de un componente de gestión de usuarios en Java.
